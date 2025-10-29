@@ -1,0 +1,2 @@
+# -Curso-Programaci-n-Asistida-por-Inteligencia-Artificial-UNSAM
+Fundamentos de la programación en Python, con una metodología práctica e intuitiva.-Uso de herramientas de asistencia basadas en inteligencia artificial.-Desarrollar competencias para automatizar tareas comunes de programación y depurar código con apoyo de IA. - Herramientas para analizar y visualizar datos de forma clara y efectiva.
